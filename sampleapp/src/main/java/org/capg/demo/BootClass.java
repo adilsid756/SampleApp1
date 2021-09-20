@@ -8,13 +8,13 @@ System.out.println("Hello from STS!");
 show();
 	}
 	public static void show(){
-		int[] arr= {1,2,3,4,5,6};
-		for(int n:arr)
+		int[] arr= {12,23,34,45,56,67};
+		for(int i=0;i<100;i++)
 		{
-			sum+=n;
-			System.out.println("Show methoad here!");
+			
+			System.out.println(arr[i]);
 		}
-
+		System.out.println("Show methoad here!");
 	}
 
 }
