@@ -8,7 +8,7 @@ System.out.println("Hello from STS!");
 show();
 	}
 	public static void show(){
-		int[] arr= {1,2,3,4,5,6};
+		int[] arr= {12,23,34,45,56,67};
 		int sum=0;
 		for(int n:arr)
 		{
